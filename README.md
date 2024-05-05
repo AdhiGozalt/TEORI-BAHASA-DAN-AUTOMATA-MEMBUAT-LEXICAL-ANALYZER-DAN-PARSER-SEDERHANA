@@ -2,6 +2,9 @@
 
 Proyek ini adalah implementasi sederhana dari Lexical Analyzer dan Parser berdasarkan konsep Teori Bahasa dan Automata. Proyek ini dibuat sebagai bagian dari pemahaman dan eksplorasi praktis tentang bagaimana bahasa formal didefinisikan, dianalisis, dan diproses oleh komputer.
 
+# Video Tugas Besar
+https://youtu.be/QQkWgR0OWmo?si=cQJiU2DjR_4hJbic
+
 ## Deskripsi
 
 Lexical Analyzer dan Parser adalah komponen penting dalam proses kompilasi sebuah bahasa pemrograman. Lexical Analyzer bertugas untuk menerjemahkan input teks menjadi token-token yang memiliki makna, sedangkan Parser bertugas untuk memvalidasi struktur sintaksis dari token-token tersebut.
