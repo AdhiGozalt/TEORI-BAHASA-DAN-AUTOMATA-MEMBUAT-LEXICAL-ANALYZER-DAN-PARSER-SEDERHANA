@@ -2,7 +2,7 @@
 
 Proyek ini adalah implementasi sederhana dari Lexical Analyzer dan Parser berdasarkan konsep Teori Bahasa dan Automata. Proyek ini dibuat sebagai bagian dari pemahaman dan eksplorasi praktis tentang bagaimana bahasa formal didefinisikan, dianalisis, dan diproses oleh komputer.
 
-# Video Tugas Besar
+# Video
 https://youtu.be/QQkWgR0OWmo?si=cQJiU2DjR_4hJbic
 
 ## Deskripsi
